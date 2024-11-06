@@ -65,3 +65,8 @@ game.whenCollideDo(player, { elemento =>
 
 game.start()
 }
+
+
+
+game.start()
+}
